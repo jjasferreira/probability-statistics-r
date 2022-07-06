@@ -1,4 +1,4 @@
-## Exercício 01
+# Exercício 01
 
 Os dados no ficheiro `ResiduosPerCapita.xlsx` correspondem à produção de resíduos per capita em **30** países europeus, nos anos 2004 e 2018.
 Com recurso à função `ggplot` represente, num diagrama de barras lado a lado, a produção de resíduos per capita nos países **PL - Polonia**, **IS - Islandia**, e **NL - Paises Baixos**, nos anos 2004 e 2018.
