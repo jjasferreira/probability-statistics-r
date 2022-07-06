@@ -1,1 +1,1 @@
-# probability-and-statistics-r
+# probability-statistics-r
